@@ -209,10 +209,11 @@ Generated month-wise medical expense summaries.
 sql-hospital-data-analysis
 │
 ├── README.md
-├── Hospital_SQL_Assignment.sql
+├── sqlhospital.sql
 ├── Hospital_Data.csv
 ├── docs
 │   └── Hospital_SQL_Questions_Answers.pdf
+    |__ Question.pdf
 ```
 
 ---
